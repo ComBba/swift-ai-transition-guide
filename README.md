@@ -76,4 +76,4 @@ MIT © 숭숭이 팀 & Contributors
 
 ---
 
-**Inspired by** [steipete.me](https://steipete.me) - Peter Steinberger의 오픈소스 철학
+**철학:** 진정한 오픈소스 - 모든 코드는 GitHub에, 모든 지식은 공유되어야 합니다.

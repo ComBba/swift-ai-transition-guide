@@ -95,9 +95,8 @@ let constraint = NSLayoutConstraint(
 
 ---
 
-**steipete.me 철학:**
-> "AI-powered tools from Swift roots to web frontiers"
-> 
-> - Peter Steinberger
+**우리의 철학:**
+> AI는 도구이며, 지식은 공유되어야 합니다.
+> 오픈소스로 만든 것은 모두의 것입니다.
 
-**결론:** 지금 도입하지 않으면 **�처집니다.** 🦞
+**결론:** 지금 도입하지 않으면 뒤처집니다.
